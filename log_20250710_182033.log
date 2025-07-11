@@ -1,0 +1,725 @@
+2025-07-10 18:20:33,751 - [Prompt] Board ID（1-160）:
+2025-07-10 18:20:34,678 - [User Input] 64
+2025-07-10 18:20:34,700 - Init the Score board...
+
+2025-07-10 18:20:34,701 - Number of test: 19
+2025-07-10 18:20:34,701 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:20:34,702 - Please hold down the SAM-BOOT button and then connect the device with a USB cable.
+
+2025-07-10 18:20:34,703 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:20:34,703 - Waiting for RP2040 device connection...
+
+2025-07-10 18:20:40,723 - Detected RP2040 device.
+
+2025-07-10 18:20:40,763 - flash_nuke.uf2 uploaded successfully.
+2025-07-10 18:20:40,764 - Waiting for RP2040 device to reconnect...
+
+2025-07-10 18:20:53,519 - RPI_PICO-20240222-v1.22.2.uf2 uploaded successfully.
+
+2025-07-10 18:20:53,925 - mpremote 设备已连接。
+
+2025-07-10 18:20:57,103 - eink_driver_sam.py uploaded successfully via mpremote.
+
+2025-07-10 18:20:58,630 - loading1.bin uploaded successfully via mpremote.
+
+2025-07-10 18:21:00,169 - loading2.bin uploaded successfully via mpremote.
+
+2025-07-10 18:21:01,448 - main.py uploaded successfully via mpremote.
+
+2025-07-10 18:21:02,060 - upload.sh uploaded successfully via mpremote.
+
+2025-07-10 18:21:03,679 - white.bin uploaded successfully via mpremote.
+
+2025-07-10 18:21:03,692 - 已向 COM8 发送1200bps重启信号。
+
+2025-07-10 18:21:05,725 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:21:05,725 - Unplug
+
+2025-07-10 18:21:05,726 - Please insert the CM5 module into the board.
+
+2025-07-10 18:21:05,726 - Hold the CM5-boot and plug USB.
+
+2025-07-10 18:21:05,726 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:21:08,727 - 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2025-07-10 18:21:08,728 - [Prompt] Check if the Eink flash and display images (y/n):
+2025-07-10 18:21:20,467 - [User Input] n
+2025-07-10 18:21:20,467 - Eink and flash test failed.
+
+2025-07-10 18:21:20,499 - 
+==================== LED 检查 ====================
+
+2025-07-10 18:21:20,502 - 请观察板子上的LED灯状态：
+2025-07-10 18:21:20,503 -   - LED1: 顶部前方的LED
+2025-07-10 18:21:20,505 -   - LED2: 侧面前方的LED
+
+2025-07-10 18:21:20,506 - 请依次点亮LED1和LED2，并根据实际情况输入结果。
+2025-07-10 18:21:20,506 - --------------------------------------------------
+
+2025-07-10 18:21:21,507 - [Prompt] LED1 (top front) 是否正常点亮？(y/n):
+2025-07-10 18:21:21,508 - [User Input] y
+2025-07-10 18:21:21,509 - LED1 检查通过。
+
+2025-07-10 18:21:21,509 - [Prompt] LED2 (side front) 是否正常点亮？(y/n):
+2025-07-10 18:21:22,398 - [User Input] y
+2025-07-10 18:21:22,399 - LED2 检查通过。
+
+2025-07-10 18:21:22,399 - LED 检查完成。
+
+2025-07-10 18:21:22,487 - Board ID 64 saved.
+2025-07-10 18:21:22,487 - [Prompt] Keep test (y/n):
+2025-07-10 18:21:23,605 - [User Input] y
+2025-07-10 18:21:23,605 - [Prompt] Board ID（1-160）:
+2025-07-10 18:21:25,842 - [User Input] 60
+2025-07-10 18:21:25,902 - Init the Score board...
+
+2025-07-10 18:21:25,903 - Number of test: 19
+2025-07-10 18:21:25,904 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:21:25,904 - Please hold down the SAM-BOOT button and then connect the device with a USB cable.
+
+2025-07-10 18:21:25,904 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:21:25,905 - Waiting for RP2040 device connection...
+
+2025-07-10 18:21:31,919 - Detected RP2040 device.
+
+2025-07-10 18:21:31,958 - flash_nuke.uf2 uploaded successfully.
+2025-07-10 18:21:31,959 - Waiting for RP2040 device to reconnect...
+
+2025-07-10 18:21:43,409 - RPI_PICO-20240222-v1.22.2.uf2 uploaded successfully.
+
+2025-07-10 18:21:43,747 - mpremote 设备已连接。
+
+2025-07-10 18:21:46,906 - eink_driver_sam.py uploaded successfully via mpremote.
+
+2025-07-10 18:21:48,462 - loading1.bin uploaded successfully via mpremote.
+
+2025-07-10 18:21:50,044 - loading2.bin uploaded successfully via mpremote.
+
+2025-07-10 18:21:51,290 - main.py uploaded successfully via mpremote.
+
+2025-07-10 18:21:51,902 - upload.sh uploaded successfully via mpremote.
+
+2025-07-10 18:21:53,462 - white.bin uploaded successfully via mpremote.
+
+2025-07-10 18:21:53,473 - 已向 COM8 发送1200bps重启信号。
+
+2025-07-10 18:21:55,495 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:21:55,495 - Unplug
+
+2025-07-10 18:21:55,496 - Please insert the CM5 module into the board.
+
+2025-07-10 18:21:55,496 - Hold the CM5-boot and plug USB.
+
+2025-07-10 18:21:55,496 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:21:58,497 - 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2025-07-10 18:21:58,497 - [Prompt] Check if the Eink flash and display images (y/n):
+2025-07-10 18:22:09,497 - [User Input] y
+2025-07-10 18:22:09,497 - Eink and flash test passed.
+
+2025-07-10 18:22:09,524 - 
+==================== LED 检查 ====================
+
+2025-07-10 18:22:09,525 - 请观察板子上的LED灯状态：
+2025-07-10 18:22:09,525 -   - LED1: 顶部前方的LED
+2025-07-10 18:22:09,525 -   - LED2: 侧面前方的LED
+
+2025-07-10 18:22:09,526 - 请依次点亮LED1和LED2，并根据实际情况输入结果。
+2025-07-10 18:22:09,526 - --------------------------------------------------
+
+2025-07-10 18:22:10,527 - [Prompt] LED1 (top front) 是否正常点亮？(y/n):
+2025-07-10 18:22:12,214 - [User Input] y
+2025-07-10 18:22:12,214 - LED1 检查通过。
+
+2025-07-10 18:22:12,214 - [Prompt] LED2 (side front) 是否正常点亮？(y/n):
+2025-07-10 18:22:12,804 - [User Input] y
+2025-07-10 18:22:12,805 - LED2 检查通过。
+
+2025-07-10 18:22:12,805 - LED 检查完成。
+
+2025-07-10 18:22:12,872 - Board ID 60 saved.
+2025-07-10 18:22:12,873 - [Prompt] Keep test (y/n):
+2025-07-10 18:22:13,999 - [User Input] y
+2025-07-10 18:22:13,999 - [Prompt] Board ID（1-160）:
+2025-07-10 18:22:18,810 - [User Input] 60
+2025-07-10 18:22:18,863 - [Warning] This board ID has already been tested. Please enter a new ID.
+
+2025-07-10 18:22:18,864 - [Prompt] Board ID（1-160）:
+2025-07-10 18:22:37,025 - [User Input] 88
+2025-07-10 18:22:37,047 - Init the Score board...
+
+2025-07-10 18:22:37,047 - Number of test: 19
+2025-07-10 18:22:37,047 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:22:37,048 - Please hold down the SAM-BOOT button and then connect the device with a USB cable.
+
+2025-07-10 18:22:37,048 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:22:37,049 - Waiting for RP2040 device connection...
+
+2025-07-10 18:22:37,052 - Detected RP2040 device.
+
+2025-07-10 18:22:37,089 - flash_nuke.uf2 uploaded successfully.
+2025-07-10 18:22:37,090 - Waiting for RP2040 device to reconnect...
+
+2025-07-10 18:22:49,854 - RPI_PICO-20240222-v1.22.2.uf2 uploaded successfully.
+
+2025-07-10 18:22:50,330 - mpremote 设备已连接。
+
+2025-07-10 18:22:53,624 - eink_driver_sam.py uploaded successfully via mpremote.
+
+2025-07-10 18:22:55,203 - loading1.bin uploaded successfully via mpremote.
+
+2025-07-10 18:22:56,742 - loading2.bin uploaded successfully via mpremote.
+
+2025-07-10 18:22:58,007 - main.py uploaded successfully via mpremote.
+
+2025-07-10 18:22:58,616 - upload.sh uploaded successfully via mpremote.
+
+2025-07-10 18:23:00,164 - white.bin uploaded successfully via mpremote.
+
+2025-07-10 18:23:00,175 - 已向 COM8 发送1200bps重启信号。
+
+2025-07-10 18:23:02,194 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:23:02,195 - Unplug
+
+2025-07-10 18:23:02,195 - Please insert the CM5 module into the board.
+
+2025-07-10 18:23:02,195 - Hold the CM5-boot and plug USB.
+
+2025-07-10 18:23:02,196 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:23:05,196 - 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2025-07-10 18:23:05,197 - [Prompt] Check if the Eink flash and display images (y/n):
+2025-07-10 18:23:08,687 - [User Input] n
+2025-07-10 18:23:08,688 - Eink and flash test failed.
+
+2025-07-10 18:23:08,711 - 
+==================== LED 检查 ====================
+
+2025-07-10 18:23:08,712 - 请观察板子上的LED灯状态：
+2025-07-10 18:23:08,712 -   - LED1: 顶部前方的LED
+2025-07-10 18:23:08,712 -   - LED2: 侧面前方的LED
+
+2025-07-10 18:23:08,713 - 请依次点亮LED1和LED2，并根据实际情况输入结果。
+2025-07-10 18:23:08,713 - --------------------------------------------------
+
+2025-07-10 18:23:09,715 - [Prompt] LED1 (top front) 是否正常点亮？(y/n):
+2025-07-10 18:23:10,520 - [User Input] y
+2025-07-10 18:23:10,520 - LED1 检查通过。
+
+2025-07-10 18:23:10,520 - [Prompt] LED2 (side front) 是否正常点亮？(y/n):
+2025-07-10 18:23:11,260 - [User Input] y
+2025-07-10 18:23:11,260 - LED2 检查通过。
+
+2025-07-10 18:23:11,261 - LED 检查完成。
+
+2025-07-10 18:23:11,325 - Board ID 88 saved.
+2025-07-10 18:23:11,326 - [Prompt] Keep test (y/n):
+2025-07-10 18:23:28,407 - [User Input] y
+2025-07-10 18:23:28,407 - [Prompt] Board ID（1-160）:
+2025-07-10 18:23:39,060 - [User Input] 83
+2025-07-10 18:23:39,110 - Init the Score board...
+
+2025-07-10 18:23:39,111 - Number of test: 19
+2025-07-10 18:23:39,111 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:23:39,111 - Please hold down the SAM-BOOT button and then connect the device with a USB cable.
+
+2025-07-10 18:23:39,111 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:23:39,112 - Waiting for RP2040 device connection...
+
+2025-07-10 18:23:46,241 - Detected RP2040 device.
+
+2025-07-10 18:23:46,304 - flash_nuke.uf2 uploaded successfully.
+2025-07-10 18:23:46,304 - Waiting for RP2040 device to reconnect...
+
+2025-07-10 18:23:59,485 - RPI_PICO-20240222-v1.22.2.uf2 uploaded successfully.
+
+2025-07-10 18:23:59,944 - mpremote 设备已连接。
+
+2025-07-10 18:24:03,137 - eink_driver_sam.py uploaded successfully via mpremote.
+
+2025-07-10 18:24:04,774 - loading1.bin uploaded successfully via mpremote.
+
+2025-07-10 18:24:06,311 - loading2.bin uploaded successfully via mpremote.
+
+2025-07-10 18:24:07,547 - main.py uploaded successfully via mpremote.
+
+2025-07-10 18:24:08,140 - upload.sh uploaded successfully via mpremote.
+
+2025-07-10 18:24:09,724 - white.bin uploaded successfully via mpremote.
+
+2025-07-10 18:24:09,736 - 已向 COM8 发送1200bps重启信号。
+
+2025-07-10 18:24:11,756 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:24:11,757 - Unplug
+
+2025-07-10 18:24:11,757 - Please insert the CM5 module into the board.
+
+2025-07-10 18:24:11,757 - Hold the CM5-boot and plug USB.
+
+2025-07-10 18:24:11,757 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:24:14,758 - 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2025-07-10 18:24:14,758 - [Prompt] Check if the Eink flash and display images (y/n):
+2025-07-10 18:24:16,977 - [User Input] y
+2025-07-10 18:24:16,977 - Eink and flash test passed.
+
+2025-07-10 18:24:17,004 - 
+==================== LED 检查 ====================
+
+2025-07-10 18:24:17,005 - 请观察板子上的LED灯状态：
+2025-07-10 18:24:17,005 -   - LED1: 顶部前方的LED
+2025-07-10 18:24:17,005 -   - LED2: 侧面前方的LED
+
+2025-07-10 18:24:17,006 - 请依次点亮LED1和LED2，并根据实际情况输入结果。
+2025-07-10 18:24:17,006 - --------------------------------------------------
+
+2025-07-10 18:24:18,007 - [Prompt] LED1 (top front) 是否正常点亮？(y/n):
+2025-07-10 18:24:31,000 - [User Input] y
+2025-07-10 18:24:31,000 - LED1 检查通过。
+
+2025-07-10 18:24:31,001 - [Prompt] LED2 (side front) 是否正常点亮？(y/n):
+2025-07-10 18:24:31,595 - [User Input] y
+2025-07-10 18:24:31,595 - LED2 检查通过。
+
+2025-07-10 18:24:31,596 - LED 检查完成。
+
+2025-07-10 18:24:31,661 - Board ID 83 saved.
+2025-07-10 18:24:31,661 - [Prompt] Keep test (y/n):
+2025-07-10 18:24:32,512 - [User Input] y
+2025-07-10 18:24:32,512 - [Prompt] Board ID（1-160）:
+2025-07-10 18:24:33,670 - [User Input] 114
+2025-07-10 18:24:33,726 - Init the Score board...
+
+2025-07-10 18:24:33,727 - Number of test: 19
+2025-07-10 18:24:33,727 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:24:33,728 - Please hold down the SAM-BOOT button and then connect the device with a USB cable.
+
+2025-07-10 18:24:33,728 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:24:33,729 - Waiting for RP2040 device connection...
+
+2025-07-10 18:24:41,747 - Detected RP2040 device.
+
+2025-07-10 18:24:41,792 - flash_nuke.uf2 uploaded successfully.
+2025-07-10 18:24:41,794 - Waiting for RP2040 device to reconnect...
+
+2025-07-10 18:24:54,521 - RPI_PICO-20240222-v1.22.2.uf2 uploaded successfully.
+
+2025-07-10 18:24:54,913 - mpremote 设备已连接。
+
+2025-07-10 18:24:58,122 - eink_driver_sam.py uploaded successfully via mpremote.
+
+2025-07-10 18:24:59,666 - loading1.bin uploaded successfully via mpremote.
+
+2025-07-10 18:25:01,181 - loading2.bin uploaded successfully via mpremote.
+
+2025-07-10 18:25:02,437 - main.py uploaded successfully via mpremote.
+
+2025-07-10 18:25:03,028 - upload.sh uploaded successfully via mpremote.
+
+2025-07-10 18:25:04,590 - white.bin uploaded successfully via mpremote.
+
+2025-07-10 18:25:04,600 - 已向 COM8 发送1200bps重启信号。
+
+2025-07-10 18:25:06,621 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:25:06,622 - Unplug
+
+2025-07-10 18:25:06,622 - Please insert the CM5 module into the board.
+
+2025-07-10 18:25:06,623 - Hold the CM5-boot and plug USB.
+
+2025-07-10 18:25:06,623 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:25:09,624 - 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2025-07-10 18:25:09,625 - [Prompt] Check if the Eink flash and display images (y/n):
+2025-07-10 18:25:55,437 - [User Input] n
+2025-07-10 18:25:55,437 - Eink and flash test failed.
+
+2025-07-10 18:25:55,465 - 
+==================== LED 检查 ====================
+
+2025-07-10 18:25:55,467 - 请观察板子上的LED灯状态：
+2025-07-10 18:25:55,467 -   - LED1: 顶部前方的LED
+2025-07-10 18:25:55,467 -   - LED2: 侧面前方的LED
+
+2025-07-10 18:25:55,468 - 请依次点亮LED1和LED2，并根据实际情况输入结果。
+2025-07-10 18:25:55,468 - --------------------------------------------------
+
+2025-07-10 18:25:56,469 - [Prompt] LED1 (top front) 是否正常点亮？(y/n):
+2025-07-10 18:25:56,479 - [User Input] 
+2025-07-10 18:25:56,480 - LED1 检查未通过。
+
+2025-07-10 18:25:56,480 - [Prompt] LED2 (side front) 是否正常点亮？(y/n):
+2025-07-10 18:26:08,204 - [User Input] y
+2025-07-10 18:26:08,204 - LED2 检查通过。
+
+2025-07-10 18:26:08,204 - LED 检查完成。
+
+2025-07-10 18:26:08,260 - Board ID 114 saved.
+2025-07-10 18:26:08,260 - [Prompt] Keep test (y/n):
+2025-07-10 18:26:09,217 - [User Input] y
+2025-07-10 18:26:09,217 - [Prompt] Board ID（1-160）:
+2025-07-10 18:26:11,835 - [User Input] 136
+2025-07-10 18:26:11,889 - Init the Score board...
+
+2025-07-10 18:26:11,889 - Number of test: 19
+2025-07-10 18:26:11,890 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:26:11,890 - Please hold down the SAM-BOOT button and then connect the device with a USB cable.
+
+2025-07-10 18:26:11,890 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:26:11,891 - Waiting for RP2040 device connection...
+
+2025-07-10 18:26:17,907 - Detected RP2040 device.
+
+2025-07-10 18:26:17,971 - flash_nuke.uf2 uploaded successfully.
+2025-07-10 18:26:17,971 - Waiting for RP2040 device to reconnect...
+
+2025-07-10 18:26:30,689 - RPI_PICO-20240222-v1.22.2.uf2 uploaded successfully.
+
+2025-07-10 18:26:31,079 - mpremote 设备已连接。
+
+2025-07-10 18:26:34,354 - eink_driver_sam.py uploaded successfully via mpremote.
+
+2025-07-10 18:26:35,947 - loading1.bin uploaded successfully via mpremote.
+
+2025-07-10 18:26:37,557 - loading2.bin uploaded successfully via mpremote.
+
+2025-07-10 18:26:38,792 - main.py uploaded successfully via mpremote.
+
+2025-07-10 18:26:39,392 - upload.sh uploaded successfully via mpremote.
+
+2025-07-10 18:26:40,929 - white.bin uploaded successfully via mpremote.
+
+2025-07-10 18:26:40,939 - 已向 COM8 发送1200bps重启信号。
+
+2025-07-10 18:26:42,962 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:26:42,963 - Unplug
+
+2025-07-10 18:26:42,963 - Please insert the CM5 module into the board.
+
+2025-07-10 18:26:42,963 - Hold the CM5-boot and plug USB.
+
+2025-07-10 18:26:42,964 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:26:45,964 - 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2025-07-10 18:26:45,965 - [Prompt] Check if the Eink flash and display images (y/n):
+2025-07-10 18:27:28,884 - [User Input] n
+2025-07-10 18:27:28,884 - Eink and flash test failed.
+
+2025-07-10 18:27:28,906 - 
+==================== LED 检查 ====================
+
+2025-07-10 18:27:28,907 - 请观察板子上的LED灯状态：
+2025-07-10 18:27:28,907 -   - LED1: 顶部前方的LED
+2025-07-10 18:27:28,908 -   - LED2: 侧面前方的LED
+
+2025-07-10 18:27:28,908 - 请依次点亮LED1和LED2，并根据实际情况输入结果。
+2025-07-10 18:27:28,908 - --------------------------------------------------
+
+2025-07-10 18:27:29,909 - [Prompt] LED1 (top front) 是否正常点亮？(y/n):
+2025-07-10 18:27:30,929 - [User Input] y
+2025-07-10 18:27:30,929 - LED1 检查通过。
+
+2025-07-10 18:27:30,930 - [Prompt] LED2 (side front) 是否正常点亮？(y/n):
+2025-07-10 18:27:31,144 - [User Input] y
+2025-07-10 18:27:31,145 - LED2 检查通过。
+
+2025-07-10 18:27:31,145 - LED 检查完成。
+
+2025-07-10 18:27:31,214 - Board ID 136 saved.
+2025-07-10 18:27:31,215 - [Prompt] Keep test (y/n):
+2025-07-10 18:27:32,702 - [User Input] y
+2025-07-10 18:27:32,702 - [Prompt] Board ID（1-160）:
+2025-07-10 18:27:37,309 - [User Input] 134
+2025-07-10 18:27:37,370 - Init the Score board...
+
+2025-07-10 18:27:37,370 - Number of test: 19
+2025-07-10 18:27:37,371 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:27:37,371 - Please hold down the SAM-BOOT button and then connect the device with a USB cable.
+
+2025-07-10 18:27:37,371 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:27:37,372 - Waiting for RP2040 device connection...
+
+2025-07-10 18:27:43,390 - Detected RP2040 device.
+
+2025-07-10 18:27:43,424 - flash_nuke.uf2 uploaded successfully.
+2025-07-10 18:27:43,425 - Waiting for RP2040 device to reconnect...
+
+2025-07-10 18:27:56,047 - RPI_PICO-20240222-v1.22.2.uf2 uploaded successfully.
+
+2025-07-10 18:27:56,403 - mpremote 设备已连接。
+
+2025-07-10 18:27:59,627 - eink_driver_sam.py uploaded successfully via mpremote.
+
+2025-07-10 18:28:01,163 - loading1.bin uploaded successfully via mpremote.
+
+2025-07-10 18:28:02,727 - loading2.bin uploaded successfully via mpremote.
+
+2025-07-10 18:28:03,980 - main.py uploaded successfully via mpremote.
+
+2025-07-10 18:28:04,618 - upload.sh uploaded successfully via mpremote.
+
+2025-07-10 18:28:06,175 - white.bin uploaded successfully via mpremote.
+
+2025-07-10 18:28:06,184 - 已向 COM8 发送1200bps重启信号。
+
+2025-07-10 18:28:08,204 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:28:08,205 - Unplug
+
+2025-07-10 18:28:08,205 - Please insert the CM5 module into the board.
+
+2025-07-10 18:28:08,205 - Hold the CM5-boot and plug USB.
+
+2025-07-10 18:28:08,205 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:28:11,206 - 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2025-07-10 18:28:11,206 - [Prompt] Check if the Eink flash and display images (y/n):
+2025-07-10 18:28:35,048 - [User Input] n
+2025-07-10 18:28:35,048 - Eink and flash test failed.
+
+2025-07-10 18:28:35,079 - 
+==================== LED 检查 ====================
+
+2025-07-10 18:28:35,079 - 请观察板子上的LED灯状态：
+2025-07-10 18:28:35,080 -   - LED1: 顶部前方的LED
+2025-07-10 18:28:35,080 -   - LED2: 侧面前方的LED
+
+2025-07-10 18:28:35,080 - 请依次点亮LED1和LED2，并根据实际情况输入结果。
+2025-07-10 18:28:35,081 - --------------------------------------------------
+
+2025-07-10 18:28:36,082 - [Prompt] LED1 (top front) 是否正常点亮？(y/n):
+2025-07-10 18:28:36,085 - [User Input] y
+2025-07-10 18:28:36,085 - LED1 检查通过。
+
+2025-07-10 18:28:36,085 - [Prompt] LED2 (side front) 是否正常点亮？(y/n):
+2025-07-10 18:28:36,086 - [User Input] y
+2025-07-10 18:28:36,086 - LED2 检查通过。
+
+2025-07-10 18:28:36,086 - LED 检查完成。
+
+2025-07-10 18:28:36,159 - Board ID 134 saved.
+2025-07-10 18:28:36,159 - [Prompt] Keep test (y/n):
+2025-07-10 18:28:36,929 - [User Input] y
+2025-07-10 18:28:36,929 - [Prompt] Board ID（1-160）:
+2025-07-10 18:28:46,035 - [User Input] 118
+2025-07-10 18:28:46,091 - Init the Score board...
+
+2025-07-10 18:28:46,091 - Number of test: 19
+2025-07-10 18:28:46,091 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:28:46,092 - Please hold down the SAM-BOOT button and then connect the device with a USB cable.
+
+2025-07-10 18:28:46,092 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:28:46,092 - Waiting for RP2040 device connection...
+
+2025-07-10 18:28:52,109 - Detected RP2040 device.
+
+2025-07-10 18:28:52,143 - flash_nuke.uf2 uploaded successfully.
+2025-07-10 18:28:52,144 - Waiting for RP2040 device to reconnect...
+
+2025-07-10 18:29:03,869 - RPI_PICO-20240222-v1.22.2.uf2 uploaded successfully.
+
+2025-07-10 18:29:04,212 - mpremote 设备已连接。
+
+2025-07-10 18:29:07,456 - eink_driver_sam.py uploaded successfully via mpremote.
+
+2025-07-10 18:29:09,003 - loading1.bin uploaded successfully via mpremote.
+
+2025-07-10 18:29:10,520 - loading2.bin uploaded successfully via mpremote.
+
+2025-07-10 18:29:11,750 - main.py uploaded successfully via mpremote.
+
+2025-07-10 18:29:12,341 - upload.sh uploaded successfully via mpremote.
+
+2025-07-10 18:29:13,907 - white.bin uploaded successfully via mpremote.
+
+2025-07-10 18:29:13,916 - 已向 COM8 发送1200bps重启信号。
+
+2025-07-10 18:29:15,943 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:29:15,943 - Unplug
+
+2025-07-10 18:29:15,943 - Please insert the CM5 module into the board.
+
+2025-07-10 18:29:15,944 - Hold the CM5-boot and plug USB.
+
+2025-07-10 18:29:15,944 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:29:18,945 - 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2025-07-10 18:29:18,946 - [Prompt] Check if the Eink flash and display images (y/n):
+2025-07-10 18:29:28,688 - [User Input] n
+2025-07-10 18:29:28,688 - Eink and flash test failed.
+
+2025-07-10 18:29:28,715 - 
+==================== LED 检查 ====================
+
+2025-07-10 18:29:28,716 - 请观察板子上的LED灯状态：
+2025-07-10 18:29:28,716 -   - LED1: 顶部前方的LED
+2025-07-10 18:29:28,717 -   - LED2: 侧面前方的LED
+
+2025-07-10 18:29:28,717 - 请依次点亮LED1和LED2，并根据实际情况输入结果。
+2025-07-10 18:29:28,717 - --------------------------------------------------
+
+2025-07-10 18:29:29,718 - [Prompt] LED1 (top front) 是否正常点亮？(y/n):
+2025-07-10 18:29:29,719 - [User Input] y
+2025-07-10 18:29:29,719 - LED1 检查通过。
+
+2025-07-10 18:29:29,720 - [Prompt] LED2 (side front) 是否正常点亮？(y/n):
+2025-07-10 18:29:29,720 - [User Input] y
+2025-07-10 18:29:29,720 - LED2 检查通过。
+
+2025-07-10 18:29:29,721 - LED 检查完成。
+
+2025-07-10 18:29:29,788 - Board ID 118 saved.
+2025-07-10 18:29:29,789 - [Prompt] Keep test (y/n):
+2025-07-10 18:29:30,480 - [User Input] y
+2025-07-10 18:29:30,481 - [Prompt] Board ID（1-160）:
+2025-07-10 18:29:34,317 - [User Input] 87
+2025-07-10 18:29:34,374 - Init the Score board...
+
+2025-07-10 18:29:34,375 - Number of test: 19
+2025-07-10 18:29:34,375 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:29:34,375 - Please hold down the SAM-BOOT button and then connect the device with a USB cable.
+
+2025-07-10 18:29:34,376 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:29:34,376 - Waiting for RP2040 device connection...
+
+2025-07-10 18:29:39,389 - Detected RP2040 device.
+
+2025-07-10 18:29:39,425 - flash_nuke.uf2 uploaded successfully.
+2025-07-10 18:29:39,426 - Waiting for RP2040 device to reconnect...
+
+2025-07-10 18:29:52,124 - RPI_PICO-20240222-v1.22.2.uf2 uploaded successfully.
+
+2025-07-10 18:29:52,700 - mpremote 设备已连接。
+
+2025-07-10 18:29:55,997 - eink_driver_sam.py uploaded successfully via mpremote.
+
+2025-07-10 18:29:57,521 - loading1.bin uploaded successfully via mpremote.
+
+2025-07-10 18:29:59,013 - loading2.bin uploaded successfully via mpremote.
+
+2025-07-10 18:30:00,247 - main.py uploaded successfully via mpremote.
+
+2025-07-10 18:30:00,885 - upload.sh uploaded successfully via mpremote.
+
+2025-07-10 18:30:02,435 - white.bin uploaded successfully via mpremote.
+
+2025-07-10 18:30:02,444 - 已向 COM8 发送1200bps重启信号。
+
+2025-07-10 18:30:04,465 - 
+====================-----=====-----=====-----====================
+
+2025-07-10 18:30:04,465 - Unplug
+
+2025-07-10 18:30:04,465 - Please insert the CM5 module into the board.
+
+2025-07-10 18:30:04,467 - Hold the CM5-boot and plug USB.
+
+2025-07-10 18:30:04,467 - ====================-----=====-----=====-----====================
+
+
+2025-07-10 18:30:07,468 - 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2025-07-10 18:30:07,469 - [Prompt] Check if the Eink flash and display images (y/n):
+2025-07-10 18:30:09,270 - [User Input] n
+2025-07-10 18:30:09,271 - Eink and flash test failed.
+
+2025-07-10 18:30:09,292 - 
+==================== LED 检查 ====================
+
+2025-07-10 18:30:09,293 - 请观察板子上的LED灯状态：
+2025-07-10 18:30:09,293 -   - LED1: 顶部前方的LED
+2025-07-10 18:30:09,293 -   - LED2: 侧面前方的LED
+
+2025-07-10 18:30:09,294 - 请依次点亮LED1和LED2，并根据实际情况输入结果。
+2025-07-10 18:30:09,294 - --------------------------------------------------
+
+2025-07-10 18:30:10,295 - [Prompt] LED1 (top front) 是否正常点亮？(y/n):
+2025-07-10 18:30:23,248 - [User Input] y
+2025-07-10 18:30:23,248 - LED1 检查通过。
+
+2025-07-10 18:30:23,248 - [Prompt] LED2 (side front) 是否正常点亮？(y/n):
+2025-07-10 18:30:24,845 - [User Input] y
+2025-07-10 18:30:24,845 - LED2 检查通过。
+
+2025-07-10 18:30:24,846 - LED 检查完成。
+
+2025-07-10 18:30:24,903 - Board ID 87 saved.
+2025-07-10 18:30:24,903 - [Prompt] Keep test (y/n):
+2025-07-10 18:30:25,518 - [User Input] n
+2025-07-10 18:30:25,519 - Testing completed.
