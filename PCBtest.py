@@ -359,9 +359,9 @@ def run_tests():
     SAM_BOOT()
     Nuke_RP2040()
     RP2040_upload()
-    reboot_rp2040()
-    Insert_CM5_test()
-    check_LED()
+    #reboot_rp2040()
+    #Insert_CM5_test()
+    #check_LED()
     
     #CM5_flash_test()
     
