@@ -1,0 +1,253 @@
+Script started on 2025-07-13 15:45:09-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m [7mscreen /dev/ttyACM0 115200[27mscreen /dev/ttyACM0 115200
+[?2004l[!p[?3;4l[4l>[?1049h[22;0;0t[4l[?1h=[0m(B[1;30r[H[2J[H[2J
+>>> import man[Kin
+Starting...
+xVOLTAGE: 3.83 V
+
+xCURRENT: 1457.00 mA
+
+xSOC: 15.0 %
+
+xVOLTAGE: 3.83 V
+
+xCURRENT: 1463.00 mA
+
+xSOC: 16.0 %
+
+xVOLTAGE: 3.83 V
+
+xCURRENT: 1451.00 mA
+
+xSOC: 16.0 %
+
+xVOLTAGE: 3.83 V
+
+xCURRENT: 1456.00 mA
+
+xSOC: 16.0 %
+
+xVOLTAGE: 3.83 V
+
+xCURRENT: 1485.00 mA
+
+xSOC: 16.0 %
+
+xVOLTAGE: 3.81 V
+
+xCURRENT: 1318.00 mA
+
+xSOC: 16.0 %
+
+xVOLTAGE: 3.74 V
+
+xCURRENT: 687.00 mA
+
+xSOC: 16.0 %
+
+xVOLTAGE: 3.73 V
+
+xCURRENT: 673.00 mA
+
+xSOC: 16.0 %
+
+xVOLTAGE: 3.73 V
+
+xCURRENT: 647.00 mA
+
+xSOC: 16.0 %
+
+xVOLTAGE: 3.73 V
+
+xCURRENT: 668.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.72 V
+
+xCURRENT: 639.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.72 V
+
+xCURRENT: 627.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.72 V
+
+xCURRENT: 636.00 mA
+
+xSOC: 17.0 %
+
+[1;46r[H[2J
+xSOC: 16.0 %
+
+xVOLTAGE: 3.74 V
+
+xCURRENT: 687.00 mA
+
+xSOC: 16.0 %
+
+xVOLTAGE: 3.73 V
+
+xCURRENT: 673.00 mA
+
+xSOC: 16.0 %
+
+xVOLTAGE: 3.73 V
+
+xCURRENT: 647.00 mA
+
+xSOC: 16.0 %
+
+xVOLTAGE: 3.73 V
+
+xCURRENT: 668.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.72 V
+
+xCURRENT: 639.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.72 V
+
+xCURRENT: 627.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.72 V
+
+xCURRENT: 636.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.72 V
+
+xCURRENT: 617.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.72 V
+
+xCURRENT: 619.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.72 V
+
+xCURRENT: 613.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.71 V
+
+xCURRENT: 618.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.71 V
+
+xCURRENT: 606.00 mA
+
+xSOC: 17.0 %
+
+xVOLTAGE: 3.71 V
+
+xCURRENT: 588.00 mA
+
+xSOC: 17.0 %
+
+[7mReally kill this window [y/n][27m[K                                                                                                                                                              [?1l>[46;1H
+[?1049l[23;0;0t[screen is terminating]
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m screen /dev/ttyACM0 115200[K^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ^C[?2004l[?2004h[?2004l
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m ls[K[Kls
+[?2004l[0m[00;36m136_test.wav[0m                  batter_test.py         [01;34mdistiller-cm5-sdk[0m       [01;34mllms-txt[0m                                                       [01;34mtemp[0m
+[00;36m153doubletest.wav[0m             [01;32mb.sh[0m                   [01;34mdistiller-cm5-services[0m  mintest42mics_stereo.sh                                        [00;36mtest_46_extra.wav[0m
+[00;36m1kHz_44100Hz_16bit_05sec.wav[0m  [01;32mcheck_power.sh[0m         [01;34mfonts[0m                   output.txt                                                     [00;36mtest_711.wav[0m
+[01;32ma.sh[0m                          [01;34mdistiller-cm5-mcp-hub[0m  [01;32mkernel-install[0m          [01;31mpamir-ai-kernel-6.12.28-v8-16k-pamir-ai-g-0521-4ba4279.tar.gz[0m  [01;34mtestForBHV023[0m
+batter_test_2.py              [01;34mdistiller-cm5-python[0m   llm_run.log             [01;31mpamir-ai-kernel-6.12.34-v8-16k-pamir-ai-g-0624-0bca276.tar.gz[0m  uart_log.txt
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m cd[K[Ksudo neno[K[K[Kano output.txt 
+[?2004l[?2004h[?1049h[22;0;0t[1;46r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[44;73H(B[0;7m[ Reading... ](B[m[44;71H(B[0;7m[ Read 197 lines ](B[m[H(B[0;7m  GNU nano 7.2                                                              output.txt                                                                        [1;157H(B[m[45d(B[0;7m^G(B[m Help[45;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[45;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[45;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[46d(B[0;7m^X(B[m Exit[46;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[46;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[46;120H(B[0;7mM-6(B[m Copy[46;137H(B[0;7m^Q(B[m Where Was[2dScript started on 2025-07-13 15:45:09-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"][3d[38;5;208m^[[39m(B[m[?2004h[38;5;208m^[[39m(B[m]0;distiller@distiller-alpha: ~[38;5;208m^G^[[39m(B[m[01;32mdistiller@distiller-alpha[38;5;208m^[[39m(B[m[00m:[38;5;208m^[[39m(B[m[01;34m~ $[38;5;208m^[[39m(B[m[00m [38;5;208m^[[39m(B[m[7mscreen /dev/ttyACM0 115200[38;5;208m^[[39m(B[m[27m[38;5;208m^H^H^H^H^H^H^H^H[39m(B[0;7m>[4;1H(B[0m[38;5;208m^[[39m(B[m[?2004l[38;5;208m^M^[[39m(B[m[!p[38;5;208m^[[39m(B[m[?3;4l[38;5;208m^[[39m(B[m[4l[38;5;208m^[[39m(B[m>[38;5;208m^[[39m(B[m[?1049h[38;5;208m^[[39m(B[m[22;0;0t[38;5;208m^[[39m(B[m[4l[38;5;208m^[[39m(B[m[?1h[38;5;208m^[[39m(B[m=[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m(B[38;5;208m^[[39m(B[m[1;30r[38;5;208m^[[39m(B[m[H[38;5;208m^[[39m(B[m[2J[38;5;208m^[[39m(B[m[H[38;5;208m^[[39m(B[m[2J[5d>>> import man[38;5;208m^H^[[39m(B[m[Kin[6dStarting...[7dxVOLTAGE: 3.83 V[9dxCURRENT: 1457.00 mA[11dxSOC: 15.0 %[13dxVOLTAGE: 3.83 V[15dxCURRENT: 1463.00 mA[17dxSOC: 16.0 %[19dxVOLTAGE: 3.83 V[21dxCURRENT: 1451.00 mA[23dxSOC: 16.0 %[25dxVOLTAGE: 3.83 V[27dxCURRENT: 1456.00 mA[29dxSOC: 16.0 %[31dxVOLTAGE: 3.83 V[33dxCURRENT: 1485.00 mA[35dxSOC: 16.0 %[37dxVOLTAGE: 3.81 V[39dxCURRENT: 1318.00 mA[41dxSOC: 16.0 %[43dxVOLTAGE: 3.74 V[2d[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[9d[?25l[?12l[?25h[10d[?25l[?12l[?25h[11d[?25l[?12l[?25h[12d[?25l[?12l[?25h[13d[?25l[?12l[?25h[16d[?25l[?12l[?25h[18d[?25l[?12l[?25h[19d[?25l[?12l[?25h[20d[?25l[44d[K[?12l[?25h[23d[?25l[?12l[?25h[24d[?25l[?12l[?25h[26d[?25l[?12l[?25h[27d[?25l[?12l[?25h[28d[?25l[?12l[?25h[29d[?25l[?12l[?25h[30d[?25l[?12l[?25h[31d[?25l[?12l[?25h[33d[?25l[?12l[?25h[34d[?25l[?12l[?25h[35d[?25l[?12l[?25h[36d[?25l[?12l[?25h[37d[?25l[?12l[?25h[38d[?25l[?12l[?25h[39d[?25l[?12l[?25h[40d[?25l[?12l[?25h[41d[?25l[?12l[?25h[42d[?25l[?12l[?25h[2;44r[44;1H
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d[3S[1;46r[41;1HxCURRENT: 687.00 mA[43dxSOC: 16.0 %[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d[7S[1;46r[37;1HxVOLTAGE: 3.73 V[39dxCURRENT: 673.00 mA[41dxSOC: 16.0 %[43dxVOLTAGE: 3.73 V[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d[2S[1;46r[42;1HxCURRENT: 647.00 mA[43d[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxSOC: 16.0 %[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxVOLTAGE: 3.73 V[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxCURRENT: 668.00 mA[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxSOC: 17.0 %[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxVOLTAGE: 3.72 V[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxCURRENT: 639.00 mA[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxSOC: 17.0 %[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d[2S[1;46r[42;1HxVOLTAGE: 3.72 V[43d[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxCURRENT: 627.00 mA[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d[3S[1;46r[41;1HxSOC: 17.0 %[43dxVOLTAGE: 3.72 V[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d[2S[1;46r[42;1HxCURRENT: 636.00 mA[43d[?25l[?12l[?25h7[2;44r8[44d[2S[1;46r[42;1HxSOC: 17.0 %[43d[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[38;5;208m^[[39m(B[m[1;46r[38;5;208m^[[39m(B[m[H[38;5;208m^[[39m(B[m[2J[?25l[?12l[?25h7[2;44r8[44d[2S[1;46r[42;1HxSOC: 16.0 %[43d[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxVOLTAGE: 3.74 V[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxCURRENT: 687.00 mA[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxSOC: 16.0 %[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxVOLTAGE: 3.73 V[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d[3S[1;46r[41;1HxCURRENT: 673.00 mA[43dxSOC: 16.0 %[?25l[?12l[?25h7[2;44r8[44d[2S[1;46r[43;1HxVOLTAGE: 3.73 V[?25l[?12l[?25h7[2;44r8[44d[2S[1;46r[43;1HxCURRENT: 647.00 mA[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxSOC: 16.0 %[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxVOLTAGE: 3.73 V[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxCURRENT: 668.00 mA[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxSOC: 17.0 %[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l7[2;44r8[44d
+[1;46r[43;1HxVOLTAGE: 3.72 V[?12l[?25h[?25l[?12l[?25hx[?25l[?12l[?25hV[?25l[?12l[?25hO[?25l[?12l[?25hL[?25l[?12l[?25hT[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxCURRENT: 639.00 mA[6G[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxSOC: 17.0 %[6G[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxVOLTAGE: 3.72 V[6G[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxCURRENT: 627.00 mA[6G[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxSOC: 17.0 %[6G[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1H[?25l[?12l[?25h7[2;44r8[44d
+[1;46r[43;1HxVOLTAGE: 3.72 V[6G[?25l[45d[J[46d[?12l[?25h[46;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m sudo nano output.txt ls[Kscreen /dev/ttyACM0 115200ls[Kscreen /dev/ttyACM0 115200htop[Kscreen /dev/ttyACM0 115200htop[K./a.sh [3Phtopsudo htop[4Plsblk./a.sh sudo reboot[7mexit[27mexit
+[?2004lsudo: rebootexit: command not found
+[?2004h]0;distiller@distiller-alpha: ~[01;32mdistiller@distiller-alpha[00m:[01;34m~ $[00m exit
+[?2004lexit
+
+Script done on 2025-07-13 15:48:14-07:00 [COMMAND_EXIT_CODE="1"]

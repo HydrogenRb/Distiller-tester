@@ -14,9 +14,20 @@ FLASH = False
 pmic_enable = machine.Pin(3, machine.Pin.IN, machine.Pin.PULL_UP)
 # END OF PMIC RESET BLOCK
 
+USB_SWITCH_TABLE = {"SAM_USB": [0,0], "SOM_USB": [1,0]} # S, OE_N
+# usb_switch_oe_n = machine.Pin(19, machine.Pin.OUT, value = 0)
+usb_switch_s = machine.Pin(23, machine.Pin.OUT, value = 0)
 
-    
+def switch_usb(usb_type):
+    if usb_type in USB_SWITCH_TABLE:
+        S, _ = USB_SWITCH_TABLE[usb_type]
+        usb_switch_s.value(S)
+        # usb_switch_oe_n.value(OE_N)
+    else:
+        print(f"Invalid USB type: {usb_type}")
 
+
+switch_usb("SOM_USB")
 #Instruction Set
 EncodeTable = {"BTN_UP": 0b1, "BTN_DOWN": 0b10, "BTN_SELECT": 0b100, "SHUT_DOWN": 0b1000}
 
@@ -168,6 +179,7 @@ while True:
             print(f"xVOLTAGE: {voltage:.2f} V\n")
             print(f"xCURRENT: {current:.2f} mA\n")
             print(f"xSOC: {soc:.1f} %\n")
+            uart0.write(f"xSOC: {soc:.1f} %\n")
         except Exception as e:
             print(f"Failed to read battery level: {e}")
     
